@@ -1,4 +1,4 @@
-Estrutura de Dados - A3 <title>
+Estrutura de Dados - A3 
 
 Davi Bassi Cardoso Barbosa (RA: 125111374594)<br>
 Diogo Leme Jacomini (RA: 125111343738)<br>
